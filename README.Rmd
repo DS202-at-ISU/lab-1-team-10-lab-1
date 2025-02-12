@@ -23,15 +23,15 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 This is a line from RStudio test
 
-## 12.2
+12.2
+Cameron Notes- Already done, no notes
 
-Cameron Notes-
 
 Kylie Notes- No issues
 
-## 12.3
 
-Cameron Notes-
+12.3
+Cameron Notes- No issues
 
 
 =======
@@ -69,27 +69,27 @@ Kylie Notes- No issues
 
 
 
-## 12.4
+12.4
+Cameron Notes- Issues pushing changes to rmd and not the project file, tried again and it worked
 
-Cameron Notes-
 
 
 Kylie Notes- Didn't know to commit, then pull, then push
 
 
 
-## 12.5
+12.5
+Cameron Notes- Issues with rmd vs md file. Knitting then commiting solved the issue
 
-Cameron Notes-
 
 Kylie Notes- Above
 Tirmidi - No issues
 
 
 
-## 12.6
+12.6
+Cameron Notes- No issues
 
-Cameron Notes-
 
 Kylie Notes- No issues after figuring out how to push
 Tirmidi Notes - Didn't find much issue with this after the professor helped me.

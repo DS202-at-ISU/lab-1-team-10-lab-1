@@ -24,6 +24,7 @@ you are done with your submission.
 
 This is a line from RStudio test
 
+<<<<<<< HEAD
 ## 12.2
 
 Cameron Notes-
@@ -61,20 +62,45 @@ Cameron Notes-
 ## 12.4
 
 Cameron Notes-
+=======
+12.2 Cameron Notes- Already done, no notes
+
+Kylie Notes- No issues
+
+12.3 Cameron Notes- No issues
+
+\<\<\<\<\<\<\< HEAD Benjamin Herschel
+
+12.3 - RStudio was connected to GitHub without issue, displaying the
+local files from the Repo itself cleanly.
+
+12.4 - Initial errors with committing/pushing changes, required pulling,
+which in turn aborted for unknown reasons. Seemingly resolved for
+unknown reasons.
+
+12.5 \<\<\<\<\<\<\< HEAD Cameron Notes-
+
+- Lorum Ipsum
+
+12.6 - Lorum Ipsum
+
+Kylie Notes- No issues
+
+12.4 Cameron Notes- Issues pushing changes to rmd and not the project
+file, tried again and it worked
+>>>>>>> a23354ceda7e94e50395b35e103c46caac5113f0
 
 Kylie Notes- Didn’t know to commit, then pull, then push
 
-## 12.5
+12.5 Cameron Notes- Issues with rmd vs md file. Knitting then commiting
+solved the issue
 
-Cameron Notes-
+Kylie Notes- Above Tirmidi - No issues
 
-Kylie Notes- Above
+12.6 Cameron Notes- No issues
 
-## 12.6
-
-Cameron Notes-
-
-Kylie Notes- No issues after figuring out how to push
+Kylie Notes- No issues after figuring out how to push Tirmidi Notes -
+Didn’t find much issue with this after the professor helped me.
 
 # Tirmidi changes \#1
 
