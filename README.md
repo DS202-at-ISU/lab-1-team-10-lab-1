@@ -50,13 +50,27 @@ solved the issue
 
 Kylie Notes- Above
 
-Tirmidi - No issues
-
 ## 12.6
 
 Cameron Notes- No issues
 
 Kylie Notes- No issues after figuring out how to push
+
+### Tirmidi Mohamed
+
+12.3
+
+Tirmidi - no issue
+
+12.4
+
+Tirmidi - no issue
+
+12.5
+
+Tirmidi - no issue
+
+12.6
 
 Tirmidi Notes - Didn’t find much issue with this after the professor
 helped me.
