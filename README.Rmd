@@ -23,31 +23,31 @@ Kylie's note: No issues
 This is a line from RStudio test
 
 12.2
-Cameron Notes-
+Cameron Notes- Already done, no notes
 
 
 
 12.3
-Cameron Notes-
+Cameron Notes- No issues
 
 
 
 
 12.4
-Cameron Notes-
+Cameron Notes- Issues pushing changes to rmd and not the project file, tried again and it worked
 
 
 
 
 12.5
-Cameron Notes-
+Cameron Notes- Issues with rmd vs md file. Knitting then commiting solved the issue
 
 
 
 
 
 12.6
-Cameron Notes-
+Cameron Notes- No issues
 
 
 

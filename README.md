@@ -21,12 +21,14 @@ Kylie’s note: No issues
 
 This is a line from RStudio test
 
-12.2 Cameron Notes-
+12.2 Cameron Notes- Already done, no notes
 
-12.3 Cameron Notes-
+12.3 Cameron Notes- No issues
 
-12.4 Cameron Notes-
+12.4 Cameron Notes- Issues pushing changes to rmd and not the project
+file, tried again and it worked
 
-12.5 Cameron Notes-
+12.5 Cameron Notes- Issues with rmd vs md file. Knitting then commiting
+solved the issue
 
-12.6 Cameron Notes-
+12.6 Cameron Notes- No issues
