@@ -22,10 +22,9 @@ uploaded for grading once the due date is passed. Submit a link to your
 repository on Canvas (only one submission per team) to signal to the
 instructors that you are done with your submission.
 
-Kylie’s note: No issues
-
 This is a line from RStudio test
 
+<<<<<<< HEAD
 12.2
 
 12.3
@@ -50,3 +49,40 @@ unknown reasons.
 12.6 - Lorum Ipsum
 
 > > > > > > > bc230b4fa1e90c816310c4734c5cb85a1b954eba
+=======
+## 12.2
+
+Cameron Notes-
+
+Kylie Notes- No issues
+
+## 12.3
+
+Cameron Notes-
+
+Kylie Notes- No issues
+
+## 12.4
+
+Cameron Notes-
+
+Kylie Notes- Didn’t know to commit, then pull, then push
+
+## 12.5
+
+Cameron Notes-
+
+Kylie Notes- Above
+
+## 12.6
+
+Cameron Notes-
+
+Kylie Notes- No issues after figuring out how to push
+
+# Tirmidi changes \#1
+
+My changes
+
+add one more line
+>>>>>>> eac241a8defafbd4cc9263640fabebc2b6da9405
