@@ -4,16 +4,19 @@ output: github_document
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Lab report #1
 
-Follow the instructions posted at https://ds202-at-isu.github.io/labs.html for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
+Follow the instructions posted at <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
 
-Include your answers in this document (Rmd file). Make sure that it knits properly (into the md file). Upload both the Rmd and the md file to your repository.  
+Include your answers in this document (Rmd file). Make sure that it knits properly (into the md file). Upload both the Rmd and the md file to your repository.
+
+
+All submissions to the github repo will be automatically uploaded for grading once the due date is passed. Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
+
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
@@ -30,12 +33,37 @@ Kylie Notes- No issues
 12.3
 Cameron Notes- No issues
 
+<<<<<<< HEAD
+Benjamin Herschel
+
+12.3
+- RStudio was connected to GitHub without issue, displaying the local files from the Repo itself cleanly. 
+
+12.4
+- Initial errors with committing/pushing changes, required pulling, which in turn aborted for unknown reasons.  Seemingly resolved for unknown reasons.  
+
+12.5
+<<<<<<< HEAD
+Cameron Notes-
+
+
+
+
+
+- Lorum Ipsum
+
+
+12.6
+- Lorum Ipsum
+
+
 Kylie Notes- No issues
 
 
 
 12.4
 Cameron Notes- Issues pushing changes to rmd and not the project file, tried again and it worked
+
 
 
 Kylie Notes- Didn't know to commit, then pull, then push
@@ -47,7 +75,7 @@ Cameron Notes- Issues with rmd vs md file. Knitting then commiting solved the is
 
 
 Kylie Notes- Above
-
+Tirmidi - No issues
 
 
 
@@ -56,6 +84,7 @@ Cameron Notes- No issues
 
 
 Kylie Notes- No issues after figuring out how to push
+Tirmidi Notes - Didn't find much issue with this after the professor helped me.
 
 
 
@@ -65,3 +94,4 @@ Kylie Notes- No issues after figuring out how to push
 My changes
 
 add one more line
+>>>>>>> eac241a8defafbd4cc9263640fabebc2b6da9405
