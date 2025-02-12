@@ -89,9 +89,3 @@ Tirmidi Notes - Didn't find much issue with this after the professor helped me.
 
 
 
-
-# Tirmidi changes #1
-My changes
-
-add one more line
->>>>>>> eac241a8defafbd4cc9263640fabebc2b6da9405
