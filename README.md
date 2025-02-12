@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/yvH536po)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
@@ -13,7 +12,41 @@ Include your answers in this document (Rmd file). Make sure that it
 knits properly (into the md file). Upload both the Rmd and the md file
 to your repository.
 
-All submissions to the github repo will be automatically uploaded for
-grading once the due date is passed. Submit a link to your repository on
-Canvas (only one submission per team) to signal to the instructors that
-you are done with your submission.
+\<\<\<\<\<\<\< HEAD All submissions to the github repo will be
+automatically uploaded for grading once the due date is passed. Submit a
+link to your repository on Canvas (only one submission per team) to
+signal to the instructors that you are done with your submission.
+
+======= All submissions to the github repo will be automatically
+uploaded for grading once the due date is passed. Submit a link to your
+repository on Canvas (only one submission per team) to signal to the
+instructors that you are done with your submission.
+
+Kylie’s note: No issues
+
+This is a line from RStudio test
+
+12.2
+
+12.3
+
+12.4
+
+12.5
+
+12.6
+
+Benjamin Herschel
+
+12.3 - RStudio was connected to GitHub without issue, displaying the
+local files from the Repo itself cleanly.
+
+12.4 - Initial errors with committing/pushing changes, required pulling,
+which in turn aborted for unknown reasons. Seemingly resolved for
+unknown reasons.
+
+12.5 - Lorum Ipsum
+
+12.6 - Lorum Ipsum
+
+> > > > > > > bc230b4fa1e90c816310c4734c5cb85a1b954eba
