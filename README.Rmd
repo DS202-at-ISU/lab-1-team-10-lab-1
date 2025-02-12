@@ -45,7 +45,7 @@ Benjamin Herschel
 12.5
 <<<<<<< HEAD
 Cameron Notes-
-Tirmidi - No issues
+
 
 
 
@@ -64,7 +64,7 @@ Kylie Notes- No issues
 ## 12.4
 
 Cameron Notes-
-Tirmidi Notes - Didn't find much issue with this after the professor helped me.
+
 
 Kylie Notes- Didn't know to commit, then pull, then push
 
@@ -75,7 +75,7 @@ Kylie Notes- Didn't know to commit, then pull, then push
 Cameron Notes-
 
 Kylie Notes- Above
-
+Tirmidi - No issues
 
 
 
@@ -84,6 +84,7 @@ Kylie Notes- Above
 Cameron Notes-
 
 Kylie Notes- No issues after figuring out how to push
+Tirmidi Notes - Didn't find much issue with this after the professor helped me.
 
 
 
