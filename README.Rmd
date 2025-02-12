@@ -44,26 +44,18 @@ Cameron Notes- No issues
 
 12.4&5
 
-<<<<<<< HEAD
 - Initial errors with committing/pushing changes, required pulling, which in turn aborted for unknown reasons.  Seemingly resolved for unknown reasons.  
 - Sequence, Save, Knit, Commit, Pull, Push, repeat as needed when issues arise
-=======
-12.5
-<<<<<<< HEAD
-Cameron Notes-
-
-
-
-
-
-- Lorum Ipsum
->>>>>>> 0c00598d98cd53bc36922c75441a2eb198771fe7
-
 
 12.6
 
 - Checking back on GitHub, once changes have been pushed without issue, they show up on the browser and file versions without issue.  
 
+=======
+
+
+12.5
+Cameron Notes-
 
 Kylie Notes- No issues
 
