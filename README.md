@@ -17,21 +17,29 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-Kylie’s note: No issues
-
 This is a line from RStudio test
 
 12.2 Cameron Notes- Already done, no notes
 
+Kylie Notes- No issues
+
 12.3 Cameron Notes- No issues
+
+Kylie Notes- No issues
 
 12.4 Cameron Notes- Issues pushing changes to rmd and not the project
 file, tried again and it worked
 
+Kylie Notes- Didn’t know to commit, then pull, then push
+
 12.5 Cameron Notes- Issues with rmd vs md file. Knitting then commiting
 solved the issue
 
+Kylie Notes- Above
+
 12.6 Cameron Notes- No issues
+
+Kylie Notes- No issues after figuring out how to push
 
 # Tirmidi changes \#1
 
