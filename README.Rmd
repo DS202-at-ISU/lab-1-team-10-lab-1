@@ -23,25 +23,31 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 This is a line from RStudio test
 
-## 12.2
+12.2
+Cameron Notes- Already done, no notes
 
-Cameron Notes-
 
 Kylie Notes- No issues
 
-## 12.3
-
-Cameron Notes-
-
-<<<<<<< HEAD
-Benjamin Herschel
 
 12.3
+Cameron Notes- No issues
+
+
+=======
+
+### Benjamin Herschel
+
+12.3
+
 - RStudio was connected to GitHub without issue, displaying the local files from the Repo itself cleanly. 
 
-12.4
-- Initial errors with committing/pushing changes, required pulling, which in turn aborted for unknown reasons.  Seemingly resolved for unknown reasons.  
+12.4&5
 
+<<<<<<< HEAD
+- Initial errors with committing/pushing changes, required pulling, which in turn aborted for unknown reasons.  Seemingly resolved for unknown reasons.  
+- Sequence, Save, Knit, Commit, Pull, Push, repeat as needed when issues arise
+=======
 12.5
 <<<<<<< HEAD
 Cameron Notes-
@@ -51,37 +57,39 @@ Cameron Notes-
 
 
 - Lorum Ipsum
+>>>>>>> 0c00598d98cd53bc36922c75441a2eb198771fe7
 
 
 12.6
-- Lorum Ipsum
+
+- Checking back on GitHub, once changes have been pushed without issue, they show up on the browser and file versions without issue.  
 
 
 Kylie Notes- No issues
 
 
 
-## 12.4
+12.4
+Cameron Notes- Issues pushing changes to rmd and not the project file, tried again and it worked
 
-Cameron Notes-
 
 
 Kylie Notes- Didn't know to commit, then pull, then push
 
 
 
-## 12.5
+12.5
+Cameron Notes- Issues with rmd vs md file. Knitting then commiting solved the issue
 
-Cameron Notes-
 
 Kylie Notes- Above
 Tirmidi - No issues
 
 
 
-## 12.6
+12.6
+Cameron Notes- No issues
 
-Cameron Notes-
 
 Kylie Notes- No issues after figuring out how to push
 Tirmidi Notes - Didn't find much issue with this after the professor helped me.
