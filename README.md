@@ -19,12 +19,32 @@ you are done with your submission.
 
 This is a line from RStudio test
 
-12.2 Kylie: No issues
+## 12.2
 
-12.3 Kylie: No issues
+Cameron Notes-
 
-12.4 Kylie: No issues
+Kylie Notes- No issues
 
-12.5 Kylie: No issues
+## 12.3
 
-12.6 Kylie: No issues
+Cameron Notes-
+
+Kylie Notes- No issues
+
+## 12.4
+
+Cameron Notes-
+
+Kylie Notes- Didn’t know to commit, then pull, then push
+
+## 12.5
+
+Cameron Notes-
+
+Kylie Notes- Above
+
+## 12.6
+
+Cameron Notes-
+
+Kylie Notes- No issues after figuring out how to push
