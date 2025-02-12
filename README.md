@@ -31,4 +31,14 @@ file, tried again and it worked
 12.5 Cameron Notes- Issues with rmd vs md file. Knitting then commiting
 solved the issue
 
+<<<<<<< HEAD
 12.6 Cameron Notes- No issues
+=======
+12.6 Cameron Notes-
+
+# Tirmidi changes \#1
+
+My changes
+
+add one more line
+>>>>>>> 9ff6aaf0cade1512aa807831ca582b7d23d55df2
