@@ -17,6 +17,20 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
+Kylie’s note: No issues
+
+This is a line from RStudio test
+
+12.2
+
+12.3
+
+12.4
+
+12.5
+
+12.6
+
 # Tirmidi changes \#1
 
 My changes
