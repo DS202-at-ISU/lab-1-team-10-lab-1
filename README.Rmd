@@ -34,7 +34,7 @@ Kylie Notes- No issues
 Cameron Notes- No issues
 
 
-=======
+
 
 ### Benjamin Herschel
 
@@ -44,12 +44,10 @@ Cameron Notes- No issues
 
 12.4&5
 
-<<<<<<< HEAD
-- Initial errors with committing/pushing changes, required pulling, which in turn aborted for unknown reasons.  Seemingly resolved for unknown reasons.  
-- Sequence, Save, Knit, Commit, Pull, Push, repeat as needed when issues arise
-=======
+
+
 12.5
-<<<<<<< HEAD
+
 Cameron Notes-
 
 
@@ -57,7 +55,7 @@ Cameron Notes-
 
 
 - Lorum Ipsum
->>>>>>> 0c00598d98cd53bc36922c75441a2eb198771fe7
+
 
 
 12.6
@@ -92,6 +90,20 @@ Cameron Notes- No issues
 
 
 Kylie Notes- No issues after figuring out how to push
+
+
+### Tirmidi Mohamed
+12.3
+
+Tirmidi - no issue
+12.4
+
+Tirmidi - no issue
+12.5
+
+Tirmidi - no issue
+12.6
+
 Tirmidi Notes - Didn't find much issue with this after the professor helped me.
 
 
