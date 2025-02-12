@@ -83,6 +83,7 @@ Cameron Notes- Issues with rmd vs md file. Knitting then commiting solved the is
 
 
 Kylie Notes- Above
+
 Tirmidi - No issues
 
 
@@ -92,6 +93,7 @@ Cameron Notes- No issues
 
 
 Kylie Notes- No issues after figuring out how to push
+
 Tirmidi Notes - Didn't find much issue with this after the professor helped me.
 
 
