@@ -4,54 +4,87 @@ output: github_document
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Lab report #1
 
-Follow the instructions posted at https://ds202-at-isu.github.io/labs.html for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
+Follow the instructions posted at <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
 
-Include your answers in this document (Rmd file). Make sure that it knits properly (into the md file). Upload both the Rmd and the md file to your repository.  
+Include your answers in this document (Rmd file). Make sure that it knits properly (into the md file). Upload both the Rmd and the md file to your repository.
+
+
+All submissions to the github repo will be automatically uploaded for grading once the due date is passed. Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
+
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
-
-
-
-Kylie's note: No issues
-
 This is a line from RStudio test
 
-12.2
+## 12.2
+
 Cameron Notes-
 
+Kylie Notes- No issues
 
+## 12.3
+
+Cameron Notes-
+
+<<<<<<< HEAD
+Benjamin Herschel
 
 12.3
-Cameron Notes-
-
-
-
+- RStudio was connected to GitHub without issue, displaying the local files from the Repo itself cleanly. 
 
 12.4
-Cameron Notes-
-
-
-
+- Initial errors with committing/pushing changes, required pulling, which in turn aborted for unknown reasons.  Seemingly resolved for unknown reasons.  
 
 12.5
+<<<<<<< HEAD
 Cameron Notes-
 Tirmidi - No issues
 
 
 
 
+- Lorum Ipsum
+
+
 12.6
+- Lorum Ipsum
+
+
+Kylie Notes- No issues
+
+
+
+## 12.4
+
 Cameron Notes-
 Tirmidi Notes - Didn't find much issue with this after the professor helped me.
+
+Kylie Notes- Didn't know to commit, then pull, then push
+
+
+
+## 12.5
+
+Cameron Notes-
+
+Kylie Notes- Above
+
+
+
+
+## 12.6
+
+Cameron Notes-
+
+Kylie Notes- No issues after figuring out how to push
+
 
 
 
@@ -60,3 +93,4 @@ Tirmidi Notes - Didn't find much issue with this after the professor helped me.
 My changes
 
 add one more line
+>>>>>>> eac241a8defafbd4cc9263640fabebc2b6da9405

@@ -12,27 +12,77 @@ Include your answers in this document (Rmd file). Make sure that it
 knits properly (into the md file). Upload both the Rmd and the md file
 to your repository.
 
-All submissions to the github repo will be automatically uploaded for
-grading once the due date is passed. Submit a link to your repository on
-Canvas (only one submission per team) to signal to the instructors that
-you are done with your submission.
+\<\<\<\<\<\<\< HEAD All submissions to the github repo will be
+automatically uploaded for grading once the due date is passed. Submit a
+link to your repository on Canvas (only one submission per team) to
+signal to the instructors that you are done with your submission.
 
-Kylie’s note: No issues
+======= All submissions to the github repo will be automatically
+uploaded for grading once the due date is passed. Submit a link to your
+repository on Canvas (only one submission per team) to signal to the
+instructors that you are done with your submission.
 
 This is a line from RStudio test
 
-12.2 Cameron Notes-
+<<<<<<< HEAD
+12.2
 
-12.3 Cameron Notes-
+12.3
 
-12.4 Cameron Notes-
+12.4
 
-12.5 Cameron Notes-
+12.5
 
-12.6 Cameron Notes-
+12.6
+
+Benjamin Herschel
+
+12.3 - RStudio was connected to GitHub without issue, displaying the
+local files from the Repo itself cleanly.
+
+12.4 - Initial errors with committing/pushing changes, required pulling,
+which in turn aborted for unknown reasons. Seemingly resolved for
+unknown reasons.
+
+12.5 - Lorum Ipsum
+
+12.6 - Lorum Ipsum
+
+> > > > > > > bc230b4fa1e90c816310c4734c5cb85a1b954eba
+=======
+## 12.2
+
+Cameron Notes-
+
+Kylie Notes- No issues
+
+## 12.3
+
+Cameron Notes-
+
+Kylie Notes- No issues
+
+## 12.4
+
+Cameron Notes-
+
+Kylie Notes- Didn’t know to commit, then pull, then push
+
+## 12.5
+
+Cameron Notes-
+
+Kylie Notes- Above
+
+## 12.6
+
+Cameron Notes-
+
+Kylie Notes- No issues after figuring out how to push
 
 # Tirmidi changes \#1
 
 My changes
 
 add one more line
+>>>>>>> eac241a8defafbd4cc9263640fabebc2b6da9405
