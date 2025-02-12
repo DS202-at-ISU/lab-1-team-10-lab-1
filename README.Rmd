@@ -36,6 +36,7 @@ Cameron Notes- No issues
 
 
 
+
 ### Benjamin Herschel
 
 12.3
@@ -67,6 +68,7 @@ Kylie Notes- No issues
 
 
 
+
 12.4
 Cameron Notes- Issues pushing changes to rmd and not the project file, tried again and it worked
 
@@ -75,13 +77,15 @@ Cameron Notes- Issues pushing changes to rmd and not the project file, tried aga
 Kylie Notes- Didn't know to commit, then pull, then push
 
 
-
 12.5
 Cameron Notes- Issues with rmd vs md file. Knitting then commiting solved the issue
 
+Kylie Notes- No issues
+
+
 
 Kylie Notes- Above
-Tirmidi - No issues
+
 
 
 
@@ -108,4 +112,18 @@ Tirmidi Notes - Didn't find much issue with this after the professor helped me.
 
 
 
+### Benjamin Herschel
+
+12.3
+
+- RStudio was connected to GitHub without issue, displaying the local files from the Repo itself cleanly. 
+
+12.4&5
+
+- Initial errors with committing/pushing changes, required pulling, which in turn aborted for unknown reasons.  Seemingly resolved for unknown reasons.  
+- Sequence, Save, Knit, Commit, Pull, Push, repeat as needed when issues arise
+
+12.6
+
+- Checking back on GitHub, once changes have been pushed without issue, they show up on the browser and file versions without issue.  
 
