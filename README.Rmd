@@ -14,10 +14,10 @@ Follow the instructions posted at <https://ds202-at-isu.github.io/labs.html> for
 
 Include your answers in this document (Rmd file). Make sure that it knits properly (into the md file). Upload both the Rmd and the md file to your repository.
 
-<<<<<<< HEAD
+
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed. Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
-=======
+
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
@@ -49,4 +49,3 @@ Benjamin Herschel
 12.6
 - Lorum Ipsum
 
->>>>>>> bc230b4fa1e90c816310c4734c5cb85a1b954eba
