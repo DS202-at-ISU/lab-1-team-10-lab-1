@@ -30,7 +30,22 @@ Kylie Notes- No issues
 
 12.3 Cameron Notes- No issues
 
-=======
+12.4 Cameron Notes- Issues pushing changes to rmd and not the project
+file, tried again and it worked
+
+Kylie Notes- Didn’t know to commit, then pull, then push
+
+12.5 Cameron Notes- Issues with rmd vs md file. Knitting then commiting
+solved the issue
+
+Kylie Notes- No issues
+
+Kylie Notes- Above Tirmidi - No issues
+
+12.6 Cameron Notes- No issues
+
+Kylie Notes- No issues after figuring out how to push Tirmidi Notes -
+Didn’t find much issue with this after the professor helped me.
 
 ### Benjamin Herschel
 
@@ -51,31 +66,3 @@ Kylie Notes- No issues
 
 - Checking back on GitHub, once changes have been pushed without issue,
   they show up on the browser and file versions without issue.
-
-=======
-
-12.5 Cameron Notes-
-
-Kylie Notes- No issues
-
-12.4 Cameron Notes- Issues pushing changes to rmd and not the project
-file, tried again and it worked
-
-Kylie Notes- Didn’t know to commit, then pull, then push
-
-12.5 Cameron Notes- Issues with rmd vs md file. Knitting then commiting
-solved the issue
-
-Kylie Notes- Above Tirmidi - No issues
-
-12.6 Cameron Notes- No issues
-
-Kylie Notes- No issues after figuring out how to push Tirmidi Notes -
-Didn’t find much issue with this after the professor helped me.
-
-# Tirmidi changes \#1
-
-My changes
-
-add one more line \>\>\>\>\>\>\>
-eac241a8defafbd4cc9263640fabebc2b6da9405
